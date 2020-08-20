@@ -1,0 +1,15 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "drum kit project in web development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amitai",
+  "license": "ISC"
+}
